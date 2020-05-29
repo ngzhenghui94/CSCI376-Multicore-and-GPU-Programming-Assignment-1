@@ -1,0 +1,4 @@
+﻿  Assignment 1 Task 2.cpp
+D:\Google Drive\XPS 13\2020 Sem 2 Multicore GPU programming\Assignment\Assignment 1\Task 2\Assignment 1 Task 2\Assignment 1 Task 2.cpp(114,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Google Drive\XPS 13\2020 Sem 2 Multicore GPU programming\Assignment\Assignment 1\Task 2\Assignment 1 Task 2\Assignment 1 Task 2.cpp(38,18): warning C4101: 'j': unreferenced local variable
+  Assignment 1 Task 2.vcxproj -> D:\Google Drive\XPS 13\2020 Sem 2 Multicore GPU programming\Assignment\Assignment 1\Task 2\Assignment 1 Task 2\Debug\Assignment 1 Task 2.exe

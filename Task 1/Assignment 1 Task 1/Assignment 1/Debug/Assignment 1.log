@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment 1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assignment 1 Task 1.cpp
+D:\Google Drive\XPS 13\2020 Sem 2 Multicore GPU programming\Assignment\Assignment 1\Task 1\Assignment 1 Task 1\Assignment 1\Assignment 1 Task 1.cpp(95,70): warning C4244: '=': conversion from 'cl::detail::param_traits<cl::detail::cl_device_info,4127>::param_type' to 'int', possible loss of data
+D:\Google Drive\XPS 13\2020 Sem 2 Multicore GPU programming\Assignment\Assignment 1\Task 1\Assignment 1 Task 1\Assignment 1\Assignment 1 Task 1.cpp(98,68): warning C4244: '=': conversion from 'cl::detail::param_traits<cl::detail::cl_device_info,4131>::param_type' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Assignment 1.vcxproj -> D:\Google Drive\XPS 13\2020 Sem 2 Multicore GPU programming\Assignment\Assignment 1\Task 1\Assignment 1 Task 1\Debug\Assignment 1 Task 1.exe
